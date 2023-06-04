@@ -1,0 +1,17 @@
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\bin\Debug\net7.0\Aplication.deps.json
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\bin\Debug\net7.0\Aplication.dll
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\bin\Debug\net7.0\Aplication.pdb
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\bin\Debug\net7.0\Domain.dll
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\bin\Debug\net7.0\Domain.pdb
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfo.cs
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\Aplication.csproj.CopyComplete
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\Aplication.dll
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\refint\Aplication.dll
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\Aplication.pdb
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\ref\Aplication.dll
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\bin\Debug\net7.0\Aplication.runtimeconfig.json
+C:\Users\cezar\source\repos\ToDoListApi\Aplication\obj\Debug\net7.0\Aplication.genruntimeconfig.cache

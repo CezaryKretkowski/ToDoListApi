@@ -1,0 +1,14 @@
+C:\Users\cezar\source\repos\ToDoListApi\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\cezar\source\repos\ToDoListApi\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\cezar\source\repos\ToDoListApi\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\cezar\source\repos\ToDoListApi\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\cezar\source\repos\ToDoListApi\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cezar\source\repos\ToDoListApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\ToDoListApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\cezar\source\repos\ToDoListApi\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\ToDoListApi\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\cezar\source\repos\ToDoListApi\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\cezar\source\repos\ToDoListApi\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\cezar\source\repos\ToDoListApi\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\cezar\source\repos\ToDoListApi\Domain\bin\Debug\net7.0\Domain.runtimeconfig.json
+C:\Users\cezar\source\repos\ToDoListApi\Domain\obj\Debug\net7.0\Domain.genruntimeconfig.cache
